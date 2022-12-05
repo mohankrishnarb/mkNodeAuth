@@ -19,8 +19,8 @@ This is a placement cell project meant to manage the status of many students
 - MongoDB: Managing all the data of this App.
 
 # Important Screenshots
-- Homepage: ![image]("C:\Users\HP-PC\Documents\Lightshot\homeNodeJSAuth.png")
-- Login Page: ![image]https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/LoginAuth.png?raw=true)
+- Homepage: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/homeNodeJSAuth.png?raw=true)
+- Login Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/LoginAuth.png?raw=true)
 - Registation Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/RegisterAuth.png?raw=true)
 - Forget Password Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/forget.png?raw=true)
 - Reset Password Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/reset.png?raw=true)
