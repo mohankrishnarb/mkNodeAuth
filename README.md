@@ -19,11 +19,8 @@ This is a placement cell project meant to manage the status of many students
 - MongoDB: Managing all the data of this App.
 
 # Important Screenshots
-- Homepage: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/homeNodeJSAuth.png?raw=true")
-- Profile Page: ![image](https://user-images.githubusercontent.com/66215313/146424143-6df64d18-1003-410c-baa4-e5eb019be702.png)
-- Add Student Page: ![image](https://user-images.githubusercontent.com/66215313/146424207-dff0e621-7ba3-4fa1-b115-390a24561297.png)
-- Student Details Page: ![image](https://user-images.githubusercontent.com/66215313/146424405-b9018bdb-f80f-4287-8320-88648b5072ac.png)
-- Edit Student Page: ![image](https://user-images.githubusercontent.com/66215313/146424479-b218e0fd-2608-478f-85e1-cb0fe4f50df9.png)
-- Add New Interview Page: ![image](https://user-images.githubusercontent.com/66215313/146424288-f81d1b9d-4426-4dba-b722-582bc76d297d.png)
-- Interview Details Page: ![image](https://user-images.githubusercontent.com/66215313/146424564-2bf94140-8914-4434-b5b9-e30b238de579.png)
-- Reset Password Page: ![image](https://user-images.githubusercontent.com/66215313/146424630-36c19c12-7264-47b4-8e18-edf9f73714ea.png)
+- Homepage: ![image]("C:\Users\HP-PC\Documents\Lightshot\homeNodeJSAuth.png")
+- Login Page: ![image]https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/LoginAuth.png?raw=true)
+- Registation Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/RegisterAuth.png?raw=true)
+- Forget Password Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/forget.png?raw=true)
+- Reset Password Page: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/reset.png?raw=true)
