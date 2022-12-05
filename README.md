@@ -72,7 +72,7 @@ nodejs-auth <br>
 ├── package.json <br>
 ├── package-lock.json <br>
 ├── README.md <br>
-└── server.js <br>
+└── index.js <br>
 
 # Important Screenshots
 - Homepage: ![image](https://github.com/ujawaltiwariG/NodeJs-Auth/blob/master/assets/homeNodeJSAuth.png?raw=true)
